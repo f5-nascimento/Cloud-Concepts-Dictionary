@@ -6,6 +6,15 @@ O Acesso Condicional, é uma ferramenta que o Microsoft Entra, permite que os ad
 ### Application Insights
 Pertence ao Azure Monitor. O Application Insights é um recurso do Azure Monitor que permite monitorar aplicativos em execução, detectar anomalias de desempenho automaticamente e usar ferramentas de análise internas para ver o que os usuários fazem em um aplicativo.
 
+### Azure App Services
+Serviço de hospedagem de aplicativos WEB da Azure. Com esta solução, o cliente pode armazenar seus aplicativos sem se preocupar com a infraestrutura onde eles irão rodar.
+
+### Azure Cognitive Services
+Ferramentas de serviços cognitivos como analise de texto para identificação de sentimentos e analise de imagens para reconhecimento de objetos. Fornece APIs e serviços de Inteligência Artificial para adicionar recursos avançados, como visão computacional, processamento de linguagem natural, reconhecimento de fala e tomada de decisão, sem exigir expertise em Machine Learning.
+
+### Azure Devops
+Ferramenta para gestão e gerenciamento de desenvolvimentos de software, baseado na cultura DEVOPs
+
 ### Azure Monitor
 O Azure Monitor é uma plataforma que coleta dados de métrica e registro em log, como percentuais de CPU. Os dados podem ser usados para disparar o dimensionamento automático.
 
@@ -21,8 +30,14 @@ Os bloqueios de recursos impedem a alteração acidental ou a exclusão de um re
 ### Calculadora de Preços do Azure
 A calculadora de preços do Azure permite estimar e configurar de acordo com seus requisitos específicos. Em seguida, você receberá um preço estimado consolidado e uma divisão detalhada dos custos associados a cada recurso adicionado à sua solução.
 
-### Conjuntos de dimensionamento de máquina virtual do Azure
+### Conjuntos de dimensionamento de máquina virtual do Azure (Azure Scale Sets)
 Os Conjuntos de Dimensionamento de Máquinas Virtuais são um recurso de computação do Azure que você pode usar para implantar, gerenciar e dimensionar um conjunto de máquinas virtuais idênticas.
+
+### Elasticidade (Elasticity)
+Este termo faz referencia a capacidade do aplicativo em expandir seus recursos de forma automatica de acordo com a demanda. Ou seja, em momentos de necessidade, o aplicativo cresce (aumentando a quantidade de instancias destinadas a ele, por exemplo) e quando não mais necessário, o aplicativo volta ao tamanho original.
+
+### Escalabilidade (Scalability)
+O termo escalabilidade esta relacionado com a habilidade do recurso de ser expandido ou reduzido de acordo com as necessidades.
 
 ### Grupos de Gerenciamento
 Os grupos de gerenciamento podem ser usados em ambientes que têm várias assinaturas para simplificar a aplicação de condições de governança.
@@ -37,7 +52,7 @@ A IaaS consiste em máquinas virtuais e rede fornecidas pelo provedor de nuvem. 
 A Integridade do Serviço notifica você sobre problemas de serviço relacionados ao Azure, como tempo de inatividade em toda a região.
 
 ### Key Vault (Cofre de Chave)
-O Key Vault é um serviço de nuvem centralizado para armazenar segredos de um aplicativo em um único local central.
+O Key Vault é um serviço de nuvem centralizado para armazenar segredos de um aplicativo em um único local central. Adequado para armazenamento de chaves, senhas e certificados.
 
 ### Limite de Gastos
 Os limites de gastos podem suspender uma assinatura quando o limite de gastos é atingido.
@@ -59,6 +74,9 @@ As Reservas do Azure oferecem preços com desconto em determinados serviços do 
 
 ### Saas (Software como Serviço)
 O SaaS permite que os usuários se conectem e usem aplicativos baseados em nuvem pela Internet. Exemplos comuns são email, calendário e ferramentas do Office, como o Office 365.
+
+### Service Bus
+Este termo faz referencia a capacidade do aplicativo em expandir seus recursos de forma automatica de acordo com a demanda. Ou seja, em momentos de necessidade, o aplicativo cresce (aumentando a quantidade de instancias destinadas a ele, por exemplo) e quando não mais necessário, o aplicativo volta ao tamanho original.
 
 ### SSO (Logon único ou Single Sign-On)
 O SSO permite que um usuário entre uma vez e use essa credencial para acessar vários recursos e aplicativos de diferentes provedores.
