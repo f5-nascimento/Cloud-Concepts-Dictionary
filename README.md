@@ -21,8 +21,11 @@ O Azure Monitor é uma plataforma que coleta dados de métrica e registro em log
 ### Azure Policy
 O Azure Policy é um serviço no Azure que permite criar, atribuir e gerenciar políticas que controlam ou auditam recursos. Essas políticas impõem regras diferentes em todas as configurações de recursos para que as configurações permaneçam em conformidade com os padrões corporativos.
 
-### ARM (Azure Resource Manager)
+### Azure Resource Manager
 O ARM é o serviço de implantação e gerenciamento do Azure. Ele fornece uma camada de gerenciamento que permite que você crie, atualize e exclua recursos em uma assinatura do Azure. Você usa recursos de gerenciamento, como controle de acesso, bloqueios de recursos e marcas de recurso, para proteger e organizar recursos após a implantação.
+
+### Azure Service Health
+Verificar se existe algum problema de infraestrutura que afeta seus recursos na Azure, bem como verificar manutenções agendadas.
 
 ### Bloqueios
 Os bloqueios de recursos impedem a alteração acidental ou a exclusão de um recurso.
@@ -38,6 +41,9 @@ Este termo faz referencia a capacidade do aplicativo em expandir seus recursos d
 
 ### Escalabilidade (Scalability)
 O termo escalabilidade esta relacionado com a habilidade do recurso de ser expandido ou reduzido de acordo com as necessidades.
+
+### Gateway de Rede Virtual
+Este é o recurso responsável por interligar a rede da Azure a uma rede local através de uma VPN.
 
 ### Grupos de Gerenciamento
 Os grupos de gerenciamento podem ser usados em ambientes que têm várias assinaturas para simplificar a aplicação de condições de governança.
