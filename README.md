@@ -4,7 +4,10 @@
 O Acesso Condicional, é uma ferramenta que o Microsoft Entra, permite que os administradores controlem, permitam ou neguem o acesso a recursos com base em determinados sinais. Você pode exigir que o acesso a determinados aplicativos só seja permitido se os usuários estiverem usando um aplicativo cliente aprovado. 
 
 ### Application Insights
-Pertence ao Azure Monitor. O Application Insights é um recurso do Azure Monitor que permite monitorar aplicativos em execução, detectar anomalias de desempenho automaticamente e usar ferramentas de análise internas para ver o que os usuários fazem em um aplicativo.
+Pertence ao Azure Monitor. O Application Insights é um recurso do Azure Monitor que permite monitorar aplicativos em execução, detectar anomalias de desempenho automaticamente e usar ferramentas de análise internas para ver o que os usuários fazem em um aplicativo. Sendo possível: monitorar o desempenho da aplicação, como a velocidade de carregamento das páginas, o tempo de resposta dos servidores e a taxa de erros. Além disso, ele fornece recursos de análise avançada, como a detecção de anomalias e a correlação de eventos, para ajudar a identificar problemas mais rapidamente. 
+
+### ARC
+O Azure Arc simplifica a governança e o gerenciamento ao fornecer uma plataforma de gerenciamento local e de várias nuvens consistente.
 
 ### Azure App Services
 Serviço de hospedagem de aplicativos WEB da Azure. Com esta solução, o cliente pode armazenar seus aplicativos sem se preocupar com a infraestrutura onde eles irão rodar.
