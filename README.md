@@ -78,6 +78,9 @@ Os pares de região permitem a replicação de recursos do Azure em regiões geo
 ### RBAC (Controle de Acesso Baseado em Função)
 O RBAC do Azure permite atribuir um conjunto de permissões a um usuário ou grupo.
 
+### Regiões
+As Regiões do Azure representam locais geográficos onde os data centers do Azure estão localizados. Cada região do Azure é composta por um ou mais data centers e oferece serviços e recursos do Azure.
+
 ### Reservas do Azure
 As Reservas do Azure oferecem preços com desconto em determinados serviços do Azure. As Reservas do Azure podem economizar até 72% em comparação com os preços de pagamento conforme o uso.Para receber um desconto, você pode reservar serviços e recursos pagando antecipadamente.
 
